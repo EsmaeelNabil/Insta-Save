@@ -11,11 +11,7 @@
     },
 
     "permissions": ["activeTab", "storage"],
-    "manifest_version": 2,
+    "manifest_version": 2
 
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-    }
 
 }
